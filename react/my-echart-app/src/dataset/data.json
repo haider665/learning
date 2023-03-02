@@ -1,0 +1,225 @@
+[{
+    "DATE_EPOCH": 1672924457,
+    "DATE_STR": "01/05/2023 08:14 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Scale",
+    "DEVICE_MODEL": "Withings Body Cardio",
+    "HEART_PULSE": 98.0
+}, {
+    "DATE_EPOCH": 1673103088,
+    "DATE_STR": "01/07/2023 09:51 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Scale",
+    "DEVICE_MODEL": "Withings Body Cardio",
+    "HEART_PULSE": 99.0
+}, {
+    "DATE_EPOCH": 1673103158,
+    "DATE_STR": "01/07/2023 09:52 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Blood Pressure Monitor",
+    "DEVICE_MODEL": "Withings BPM Connect",
+    "DIASTOLIC_BLOOD_PRESSURE": 80.0,
+    "HEART_PULSE": 85.0,
+    "SYSTOLIC_BLOOD_PRESSURE": 125.0
+}, {
+    "DATE_EPOCH": 1673265038,
+    "DATE_STR": "01/09/2023 06:50 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Scale",
+    "DEVICE_MODEL": "Withings Body Cardio",
+    "HEART_PULSE": 99.0
+}, {
+    "DATE_EPOCH": 1673539453,
+    "DATE_STR": "01/12/2023 11:04 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Scale",
+    "DEVICE_MODEL": "Withings Body Cardio",
+    "HEART_PULSE": 108.0
+}, {
+    "DATE_EPOCH": 1673539525,
+    "DATE_STR": "01/12/2023 11:05 AM",
+    "INDIVIDUAL_NAME": "Haider",
+    "DEVICE_TYPE": "Blood Pressure Monitor",
+    "DEVICE_MODEL": "Withings BPM Connect",
+    "DIASTOLIC_BLOOD_PRESSURE": 77.0,
+    "HEART_PULSE": 107.0,
+    "SYSTOLIC_BLOOD_PRESSURE": 113.0
+}, {
+    "DATE_EPOCH": 1673686929,
+    "DATE_STR": "01/14/2023 04:02 AM",
+    "INDIVIDUAL_NAME": "Athai",
+    "DEVICE_TYPE": "Scale",
+    "DEVICE_MODEL": "Withings Body Cardio",
+    "HEART_PULSE": 122.0
+}, {
+    "DATE_EPOCH": 1673844584,
+    "DATE_STR": "01/15/2023 11:49 PM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Scale",
+    "DEVICE_MODEL": "Withings Body Cardio",
+    "HEART_PULSE": 121.0
+}, {
+    "DATE_EPOCH": 1673950836,
+    "DATE_STR": "01/17/2023 05:20 AM",
+    "INDIVIDUAL_NAME": "Sadia",
+    "DEVICE_TYPE": "Scale",
+    "DEVICE_MODEL": "Withings Body Cardio",
+    "HEART_PULSE": 100.0
+}, {
+    "DATE_EPOCH": 1673959093,
+    "DATE_STR": "01/17/2023 07:38 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Scale",
+    "DEVICE_MODEL": "Withings Body Cardio",
+    "HEART_PULSE": 104.0
+}, {
+    "DATE_EPOCH": 1673971010,
+    "DATE_STR": "01/17/2023 10:56 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Blood Pressure Monitor",
+    "DEVICE_MODEL": "Withings BPM Connect",
+    "DIASTOLIC_BLOOD_PRESSURE": 83.0,
+    "HEART_PULSE": 90.0,
+    "SYSTOLIC_BLOOD_PRESSURE": 116.0
+}, {
+    "DATE_EPOCH": 1674018328,
+    "DATE_STR": "01/18/2023 12:05 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Scale",
+    "DEVICE_MODEL": "Withings Body Cardio",
+    "HEART_PULSE": 55.0
+}, {
+    "DATE_EPOCH": 1674018374,
+    "DATE_STR": "01/18/2023 12:06 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Scale",
+    "DEVICE_MODEL": "Withings Body Cardio",
+    "HEART_PULSE": 111.0
+}, {
+    "DATE_EPOCH": 1674044864,
+    "DATE_STR": "01/18/2023 07:27 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Scale",
+    "DEVICE_MODEL": "Withings Body Cardio",
+    "HEART_PULSE": 101.0
+}, {
+    "DATE_EPOCH": 1674132515,
+    "DATE_STR": "01/19/2023 07:48 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Scale",
+    "DEVICE_MODEL": "Withings Body Cardio",
+    "HEART_PULSE": 107.0
+}, {
+    "DATE_EPOCH": 1674374412,
+    "DATE_STR": "01/22/2023 03:00 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Scale",
+    "DEVICE_MODEL": "Withings Body Cardio",
+    "HEART_PULSE": 104.0
+}, {
+    "DATE_EPOCH": 1674374660,
+    "DATE_STR": "01/22/2023 03:04 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Blood Pressure Monitor",
+    "DEVICE_MODEL": "Withings BPM Connect",
+    "DIASTOLIC_BLOOD_PRESSURE": 66.0,
+    "HEART_PULSE": 82.0,
+    "SYSTOLIC_BLOOD_PRESSURE": 102.0
+}, {
+    "DATE_EPOCH": 1674374711,
+    "DATE_STR": "01/22/2023 03:05 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Blood Pressure Monitor",
+    "DEVICE_MODEL": "Withings BPM Connect",
+    "DIASTOLIC_BLOOD_PRESSURE": 67.0,
+    "HEART_PULSE": 81.0,
+    "SYSTOLIC_BLOOD_PRESSURE": 102.0
+}, {
+    "DATE_EPOCH": 1674374813,
+    "DATE_STR": "01/22/2023 03:06 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Blood Pressure Monitor",
+    "DEVICE_MODEL": "Withings BPM Connect",
+    "DIASTOLIC_BLOOD_PRESSURE": 77.0,
+    "HEART_PULSE": 83.0,
+    "SYSTOLIC_BLOOD_PRESSURE": 112.0
+}, {
+    "DATE_EPOCH": 1674383354,
+    "DATE_STR": "01/22/2023 05:29 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Scale",
+    "DEVICE_MODEL": "Withings Body Cardio",
+    "HEART_PULSE": 102.0
+}, {
+    "DATE_EPOCH": 1674624708,
+    "DATE_STR": "01/25/2023 12:31 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Scale",
+    "DEVICE_MODEL": "Withings Body Cardio",
+    "HEART_PULSE": 86.0
+}, {
+    "DATE_EPOCH": 1674741862,
+    "DATE_STR": "01/26/2023 09:04 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Scale",
+    "DEVICE_MODEL": "Withings Body Cardio",
+    "HEART_PULSE": 117.0
+}, {
+    "DATE_EPOCH": 1674749729,
+    "DATE_STR": "01/26/2023 11:15 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Scale",
+    "DEVICE_MODEL": "Withings Body Cardio",
+    "HEART_PULSE": 110.0
+}, {
+    "DATE_EPOCH": 1674811998,
+    "DATE_STR": "01/27/2023 04:33 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Scale",
+    "DEVICE_MODEL": "Withings Body Cardio",
+    "HEART_PULSE": 104.0
+}, {
+    "DATE_EPOCH": 1674899230,
+    "DATE_STR": "01/28/2023 04:47 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Scale",
+    "DEVICE_MODEL": "Withings Body Cardio",
+    "HEART_PULSE": 98.0
+}, {
+    "DATE_EPOCH": 1675047288,
+    "DATE_STR": "01/29/2023 09:54 PM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Scale",
+    "DEVICE_MODEL": "Withings Body Cardio",
+    "HEART_PULSE": 96.0
+}, {
+    "DATE_EPOCH": 1675083579,
+    "DATE_STR": "01/30/2023 07:59 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Scale",
+    "DEVICE_MODEL": "Withings Body Cardio",
+    "HEART_PULSE": 107.0
+}, {
+    "DATE_EPOCH": 1675084064,
+    "DATE_STR": "01/30/2023 08:07 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Scale",
+    "DEVICE_MODEL": "Withings Body Cardio",
+    "HEART_PULSE": 102.0
+}, {
+    "DATE_EPOCH": 1675084216,
+    "DATE_STR": "01/30/2023 08:10 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Blood Pressure Monitor",
+    "DEVICE_MODEL": "Withings BPM Connect",
+    "DIASTOLIC_BLOOD_PRESSURE": 94.0,
+    "HEART_PULSE": 103.0,
+    "SYSTOLIC_BLOOD_PRESSURE": 130.0
+}, {
+    "DATE_EPOCH": 1675084582,
+    "DATE_STR": "01/30/2023 08:16 AM",
+    "INDIVIDUAL_NAME": "Asif Ali",
+    "DEVICE_TYPE": "Scale",
+    "DEVICE_MODEL": "Withings Body Cardio",
+    "HEART_PULSE": 103.0
+}]

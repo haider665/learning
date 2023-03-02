@@ -1,0 +1,28 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "title": "Far From The Madding Crowd",
+            "author": "Haider D Rogue",
+            "body": "USS Indiana was the lead ship of her class and the first battleship in the United States Navy comparable to foreign battleships of the time. Authorized in 1890, she was launched on 28 February 1893 and commissioned on 20 November 1895. The ship pioneered the use of an intermediate battery. Indiana served in the Spanish–American War as part of the North Atlantic Squadron and took part in the blockade of Santiago de Cuba and the battle of Santiago de Cuba. After the war she became obsolete—despite several modernizations—and spent most of her time in commission as a training ship or in the reserve fleet, with her last commission during World War I as a training ship for gun crews. She was decommissioned for the third and final time in January 1919 and was shortly after renamed Coast Battleship Number 1 so that the name Indiana could be reused. She was sunk in shallow water as a target in aerial bombing tests in 1920 and her hull was sold for scrap in 1924."
+        },
+        {
+            "id": 2,
+            "title": "And There Were None",
+            "author": "Agatha Christy",
+            "body": "Katherine Johnson (1918–2020) was an African-American mathematician whose calculations of orbital mechanics as a NASA employee were critical to the success of U.S. crewed spaceflights. During her 33-year career at NASA and its predecessor, the National Advisory Committee for Aeronautics, she earned a reputation for mastering complex manual calculations and helped the space agency pioneer the use of computers to perform tasks."
+        },
+        {
+            "id": 3,
+            "title": "The Lost Symbol",
+            "author": "Mojib D.",
+            "body": "She worked with the Apollo program, calculating rendezvous paths for the lunar lander and command module on its flights to the Moon. Johnson's calculations were essential to the beginning of the Space Shuttle program and she also worked on plans for a mission to Mars. In 2015, President Barack Obama awarded her the Presidential Medal of Freedom, as a pioneering example of African-American women in STEM. She was portrayed by Taraji P. Henson as a lead character in the 2016 film Hidden Figures. This NASA photographic portrait of Johnson was taken in 1983."
+        },
+        {
+            "id": 4,
+            "title": "The Lord of The Rings",
+            "author": "Mojib Haider",
+            "body": "World War I as a training ship for gun crews. She was decommissioned for the third and final time in January 1919 and was shortly after renamed Coast Battleship Number 1 so that the name Indiana could be reused. She was sunk in shallow water as a target in aerial bombing tests in 1920"
+        }
+    ]
+}

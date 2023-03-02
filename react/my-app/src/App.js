@@ -11,7 +11,8 @@ import ParentComponent from './component/ParentComponent';
 import NameList from './component/NameList';
 import Stylesheet from './component/Stylesheet';
 import './component/style/style.css'
-import styles from './module.success.css'
+import './component/style/error.css'
+import style from './component/style/module.success.css'
 
 function App() {
   return (
